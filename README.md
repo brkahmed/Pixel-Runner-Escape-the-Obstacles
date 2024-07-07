@@ -17,8 +17,8 @@ pip install pygame
 ```
 Download or clone the repository.
 ```sh
-git clone https://github.com/yourusername/pixel-runner.git
-cd pixel-runner
+git clone https://github.com/brkahmed/Pixel-Runner-Escape-the-Obstacles/
+cd Pixel-Runner-Escape-the-Obstacles
 ```
 Run the game using:
 ```sh
@@ -27,3 +27,5 @@ python main.py
 # Controls
 - **Jump**: Press `SPACE` or `UP arrow key` or click the `mouse button` to make the player jump.
 - **Restart**: Press `R` to restart the game after game over.
+# Assets
+The assets used in this game are from [Platformer Art: Pixel Edition](https://opengameart.org/content/platformer-art-pixel-edition).
